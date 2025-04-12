@@ -1,1 +1,1 @@
-# Database_Course_Projects
+Projects developed for the Database Course at University of Tehran.# Database_Course_Projects
